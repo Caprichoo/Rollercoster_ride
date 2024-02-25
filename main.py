@@ -1,4 +1,4 @@
-print("Welcome to Rollercoster Ride")
+print("Welcome to Roller-coaster Ride")
 height = float(input("What's your height in cms.? "))
 bill = 0
 
